@@ -8,7 +8,7 @@ A Chinese translation for ArcDPS Mechanics Plugin & boon table
 
 使用说明：
 
-解压至bin64文件夹下使用，需配合arcdps使用，不可与原版mechanics&table插件共存。
+将两个dll放置到游戏目录bin64文件夹(同arcdps)，需配合arcdps使用，不可与原版mechanics&table插件共存。
 
 附加说明：
 
