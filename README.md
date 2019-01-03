@@ -4,6 +4,9 @@ http://martionlabs.com/arcdps-mechanics-log-plugin/
 
 A Chinese translation for ArcDPS Mechanics Plugin & boon table
 
+汉化者：nodoooka(原村和)
+激战2中国服id：大星淡.5907
+
 仅作简体中文化的战斗监控插件和增益面板，功能与原版并无区别。
 
 使用说明：
